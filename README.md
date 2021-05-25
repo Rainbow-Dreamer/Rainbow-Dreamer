@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rainbow-Dreamer)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rainbow-Dreamer&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rainbow-Dreamer&repo=musicpy)](https://github.com/Rainbow-Dreamer/musicpy) &nbsp;&nbsp;&nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rainbow-Dreamer&repo=Ideal-Piano)](https://github.com/Rainbow-Dreamer/Ideal-Piano)
 
