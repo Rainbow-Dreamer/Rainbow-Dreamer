@@ -1,3 +1,12 @@
+### Hi, I'm Rainbow Dreamer, a programmer who enjoys desigining useful mathematics, statistics and music related libraries and softwares. I also make music in my spare time, here is my [artist page](https://music.163.com/#/artist?id=12546086).
+-------------
+### Contact
+Discord: Rainbow Dreamer#7122  
+qq: 2180502841  
+qq discussion group: 364834221  
+Bilibili: Rainbow_Dreamer  
+email: q1036889495@gmail.com / 2180502841@qq.com
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rainbow-Dreamer&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rainbow-Dreamer&repo=musicpy&show_owner=true)](https://github.com/Rainbow-Dreamer/musicpy) &nbsp;&nbsp;&nbsp; [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rainbow-Dreamer&repo=Ideal-Piano&show_owner=true)](https://github.com/Rainbow-Dreamer/Ideal-Piano)
